@@ -1,5 +1,7 @@
 # RoboWheelDemo
-My Unreal Engine 4 project. A 2d platformer game's prototype.
+My Unreal Engine 4 project. A 2D platformer game's prototype.
+
+Showcase video at https://www.youtube.com/watch?v=BPqMOSnn6_E
 
 1. Download the zip-file
 2. Unzip all files
